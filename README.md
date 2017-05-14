@@ -23,7 +23,7 @@ SessionCookie runs within a Java Servlet container at API 3.0 or higher and a JV
 
 ## Servlet Container Configuration
 
-The <a href="http://baswerc.github.io/routes/javadoc/org/baswell/sessioncookie/SessionCookieFilter.html">SessionCookieFilter</a> should be added as the first filter in your application.
+The <a href="https://baswerc.github.io/sessioncookie/org/baswell/sessioncookie/SessionCookieFilter.html">SessionCookieFilter</a> should be added as the first filter in your application.
 
 ````xml
 <filter>
