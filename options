@@ -1,0 +1,24 @@
+-classpath
+'/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-el-api/8.0.43/tomcat-el-api-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-servlet-api/8.0.43/tomcat-servlet-api-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-api/8.0.43/tomcat-api-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-jni/8.0.43/tomcat-jni-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-util-scan/8.0.43/tomcat-util-scan-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-catalina/8.0.43/tomcat-catalina-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-util/8.0.43/tomcat-util-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-juli/8.0.43/tomcat-juli-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-jsp-api/8.0.43/tomcat-jsp-api-8.0.43.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-coyote/8.0.43/tomcat-coyote-8.0.43.jar:/Users/cbaswell/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar:/Users/cbaswell/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:/Users/cbaswell/.m2/repository/org/apache/tomcat/tomcat-annotations-api/8.0.43/tomcat-annotations-api-8.0.43.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/cbaswell/development/projects/sessioncookie/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/cbaswell/development/projects/sessioncookie/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sessioncookie 1.0.0-beta API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' '/Users/cbaswell/development/projects/sessioncookie/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'sessioncookie 1.0.0-beta API'
