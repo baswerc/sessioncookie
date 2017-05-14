@@ -43,5 +43,5 @@ This filter should be placed in front of all HTTP request that use <a href="http
 The following are reasons you might not want to use SessionCookie.
 
 * You can only store about 4kb of data in a cookie. If your encoded and encrypted sessions are larger then this then this library will not work for your needs.
-* Session cookies are sent along with every request made to your server . This increases the size of the request and response Big cookies mean bigger requests and responses, which mean slower websites.
-* If you accidentally expose your secret_key_base, your users can change the data you’ve put inside your cookie. When this includes things like current_user_id, anyone can become whichever user they want!
+* Session cookies are sent along with every request made to your server. This increases the size of the requests and responses going back and forth. If you're storing a lot of data in your session this could have a real impact on performance.
+* If you accidentally expose your <a href="https://baswerc.github.io/sessioncookie/org/baswell/sessioncookie/SessionCookieParameters.html#getSymmetricEncryptionKey--">encryption key</a>, your users can change the data you’ve put inside your cookie. This is obviously a bad a thing because a user (for example) could set the user ID to become any user they wanted.
