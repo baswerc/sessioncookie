@@ -6,7 +6,7 @@ SessionCookie is a Java library for storing Servlet based HttpSession objects as
 ## Getting Started
 
 ### Direct Download
-You can download <a href="https://github.com/baswerc/sessioncookie/releases/download/v1.0.0-beta/routes-1.0.0-beta.jar">sessioncookie-1.0.0-beta.jar</a> directly and place in your project.
+You can download <a href="https://github.com/baswerc/sessioncookie/releases/download/v1.0.0-beta/sessioncookie-1.0.0-beta.jar">sessioncookie-1.0.0-beta.jar</a> directly and place in your project.
 
 ### Using Maven
 Add the following dependency into your Maven project:
